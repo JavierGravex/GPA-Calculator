@@ -33,7 +33,6 @@ void menu_1() {
 
 	do
 	{
-		//system("cls");
 
 		cout << "\n" << setw(15) << setfill('-') << " Menu " << setw(10) << setfill('-');
 		cout << "\n" << "1: Calculate GPA!!! " << endl;
